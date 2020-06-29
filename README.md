@@ -1,7 +1,9 @@
 # OCSeedBreeder
-Automatic seed breeder for Mystical Agriculture using OpenComputers.
+Created and tested in MC Eternal (1.12.2).<br />
 
-Uses 1 Computer (SeedC) and 1 Robot (SeedR) with wireless cards.
+Automatic seed breeder for Mystical Agriculture using OpenComputers.<br />
+
+Uses 1 Computer (SeedC) and 1 Robot (SeedR) with wireless cards.<br />
 
 ![Screenshot](images/Layout.png)
 
