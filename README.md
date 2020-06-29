@@ -14,3 +14,6 @@ Mechanical Users (Extra Utilites 2) behind the seeds with a Inventory Checker (R
 
 Computer using Tier 1 components.<br />
 Robot using Tier 2 componets.<br />
+
+For the OpenComputers Adaptor to talk to the Agricraft Computer Controlled Seed Analyzer, I had to download a patched version of AgriCraft and InfinityLib.<br />
+These can be obtained from here: ![AgriCraft](https://github.com/josephcsible/AgriCraft/releases)  ![InfinityLib](https://github.com/josephcsible/InfinityLib/releases)<br />
